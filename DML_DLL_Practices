@@ -146,7 +146,6 @@ ADD
 
 /* Bổ sung ràng buộc thiết lập giá trị mặc định bằng 1 cho cột COLUONG và bằng 0 cho cột MUCGIAMGIA trong bảng CHITIETDATHANG */
 
-
 ALTER TABLE CHITIETDATHANG
 ADD
 	CONSTRAINT DF_CHITIETDATHANG_SOLUONG
