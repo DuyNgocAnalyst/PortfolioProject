@@ -1,6 +1,6 @@
 
 ## Introduction and Objective ##
-Data Preprocessing (Data Cleaning, Data Tranforming, Data Reduction,..) always plays a crucial roles in Data Science Project. 
+The goal of the project is to practice data preprocessing skills using SQL tools such as: Data Cleaning, Data Tranforming, Data Reduction,..
 
 ## Skills Acquired ##
 A few skills that you might learn after going through the project
